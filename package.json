@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-objects",
+  "name": "@rushplay/eslint-plugin-objects",
   "version": "1.1.1",
   "description": "Eslint rules for multi-property objects.",
   "main": "index.js",
@@ -25,9 +25,12 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/davidwaterston/eslint-plugin-objects.git"
+    "url": "git://github.com/RushPlay/eslint-plugin-objects.git"
   },
   "author": "David Waterston<david@davidwaterston.com>",
+  "contributors": [
+    "Leonard Kinday <leonard@kinday.ru>"
+  ],
   "license": "MIT",
   "keywords": [
     "eslint",
